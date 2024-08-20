@@ -1,1 +1,14 @@
-{}
+[
+  {
+    "image": "https://i.imgur.com/ubPqge8.png",
+    "tooltip": "You're so ✨ Sparkly ✨",
+    "position": "End",
+    "squircle": true,
+    "global": false,
+    "excluded": [],
+    "users": [
+      "1204700402235478078"
+    ],
+    "guilds": []
+  }
+]
