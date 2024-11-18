@@ -11,7 +11,7 @@
   </b><sub><b>Loh</b> / Lohkuhl / Local</sub>
   
   <br>
-  <sub><b>Programmer</b> / Digital Artist</sub>
+  <sub><b>Programmer</b> / Aspiring Game Developer</sub>
 
   <br>
   <sub><b>YLohkuhl</b> is my user. When crediting or looking for my work, do <i>not</i> remove the <b>Y</b>.</sub>
