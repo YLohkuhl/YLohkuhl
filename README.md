@@ -8,7 +8,7 @@
   <img src="https://avatars.githubusercontent.com/u/80174970" width=80>
   
   <br>
-  </b><sub>Loh / <b>Lohkuhl</b> / Local</sub>
+  </b><sub><b>Loh</b> / Lohkuhl / Local</sub>
   
   <br>
   <sub><b>Programmer</b> / Digital Artist</sub>
