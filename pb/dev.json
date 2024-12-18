@@ -3,7 +3,7 @@
   "tooltip": "I developed this plugin...",
   "link": "https://github.com/YLohkuhl",
   "position": "End",
-  "squircle": false,
+  "squircle": true,
   "global": false,
   "excluded": [],
   "users": [
