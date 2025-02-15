@@ -17,7 +17,9 @@
   <sub><b>YLohkuhl</b> is my user. When crediting or looking for my work, do <i>not</i> remove the <b>Y</b>.</sub>
 </div>
 
+
 <div align="center">
+  <!---
   <br>
   <img src="https://media1.tenor.com/m/ZhZJ9eiibG4AAAAC/ritsu-kageyama-mob-psycho-100.gif" width=350>
   <br>
