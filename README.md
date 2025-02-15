@@ -28,11 +28,10 @@
   <br>
   <img src="https://media1.tenor.com/m/qY2CLa28eO4AAAAC/young-neil-scott-pilgrim.gif" width=300>
   <br>
-
+--->
   <br>
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=ylohkuhl&theme=rainbow&screen_effect=true&pixelate_avatar=false&dithering=true&hide=avatar", width=400>
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=ylohkuhl&theme=fuji&dithering=true", width=400>
   <br>
-  --->
 
   <br>
   <a href="https://skillicons.dev">
