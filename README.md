@@ -30,7 +30,7 @@
   <br>
 --->
   <br>
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=ylohkuhl&theme=fuji&dithering=true", width=400>
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=ylohkuhl&theme=fuji&pixelate_avatar=false&dithering=true", width=400>
   <br>
 
   <br>
