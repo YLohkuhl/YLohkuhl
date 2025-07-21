@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/thegoodmonolith');
+
+[aria-label="Mute"] [aria-hidden="true"],
+[aria-label="Deafen"] [aria-hidden="true"]{
+  opacity: 0.4;
+}
+
+#app-mount {
+    opacity: 0.9;
+}
+
+body {
+    font-family: 'TheGoodMonolith', sans-serif;
+}
