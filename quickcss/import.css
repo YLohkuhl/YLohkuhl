@@ -1,9 +1,38 @@
+/*[THEME: LOADED SEPARATELY] @import url(https://MarkChan0225.github.io/RoundedDiscord/src/roundeddiscord.css);*/
 @import url('https://fonts.cdnfonts.com/css/thegoodmonolith');
+
+/* EXTRAS */
+div[id*=oneko]{
+  background-image: url(https://github.com/LuSaffi/VenCordstuff/blob/main/Images/eevee.png?raw=true) !important;
+}
 
 [aria-label="Mute"] [aria-hidden="true"],
 [aria-label="Deafen"] [aria-hidden="true"]{
   opacity: 0.4;
 }
+
+.embedFull__623de {
+  background: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0.05),
+    rgba(255, 165, 0, 0.05),
+    rgba(255, 255, 0, 0.05),
+    rgba(0, 128, 0, 0.05),
+    rgba(0, 255, 255, 0.05),
+    rgba(0, 0, 255, 0.05),
+    rgba(128, 0, 128, 0.05)
+  );
+  /* border-right-color: rgb(190, 163, 74);*/
+  /*border-left-color: rgba(255, 255, 255, 0.2) !important;*/
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* ROUNDED */
+[class^="inline"] {
+  border-radius: 5px !important;
+}
+
+/* MAIN */
 
 #app-mount {
     opacity: 0.9;
@@ -11,4 +40,8 @@
 
 body {
     font-family: 'TheGoodMonolith', sans-serif;
+}
+
+:root {
+  --radius: 10px;
 }
