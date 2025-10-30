@@ -39,7 +39,7 @@ div[id*=oneko]{
 }
 
 * {
-    font-family: 'TheGoodMonolith', sans-serif;
+    font-family: 'TheGoodMonolith', sans-serif !important;
 }
 
 :root {
