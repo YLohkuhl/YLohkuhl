@@ -1,8 +1,5 @@
 /*[THEME: LOADED SEPARATELY] @import url(https://MarkChan0225.github.io/RoundedDiscord/src/roundeddiscord.css);*/
-@font-face {
-  font-family: "PixelCode";
-  src: url("https://raw.githubusercontent.com/YLohkuhl/YLohkuhl/main/quickcss/PixelCode.ttf");
-}
+@import url('https://fonts.cdnfonts.com/css/thegoodmonolith');
 
 /* EXTRAS */
 div[id*=oneko]{
@@ -41,8 +38,8 @@ div[id*=oneko]{
     opacity: 0.9;
 }
 
-body {
-    font-family: 'PixelCode';
+* {
+    font-family: 'TheGoodMonolith', sans-serif;
 }
 
 :root {
