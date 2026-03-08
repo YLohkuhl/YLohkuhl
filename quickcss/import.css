@@ -1,6 +1,13 @@
 /*[THEME: LOADED SEPARATELY] @import url(https://MarkChan0225.github.io/RoundedDiscord/src/roundeddiscord.css);*/
 @import url('https://fonts.cdnfonts.com/css/thegoodmonolith');
 
+@font-face {
+  font-family: "Wahupop";
+  src: url('https://github.com/YLohkuhl/YLohkuhl/blob/main/quickcss/%E5%92%8C%E9%A2%A8%E3%81%BD%E3%81%A3%E3%81%B7.ttf') format("truetype")
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* EXTRAS */
 div[id*=oneko]{
   background-image: url(https://github.com/LuSaffi/VenCordstuff/blob/main/Images/eevee.png?raw=true) !important;
@@ -39,7 +46,7 @@ div[id*=oneko]{
 }
 
 * {
-    font-family: 'TheGoodMonolith', sans-serif !important;
+    font-family: 'Wahupop', sans-serif !important;
 }
 
 :root {
